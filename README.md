@@ -93,9 +93,12 @@ and crafting elegant solutions with AI & Web technologies.</i>
 ### 📊 GitHub Stats
 
 <img height="170" src="https://github-readme-stats-nine-peach-55.vercel.app/api?username=NewAmorend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+
+<br/><br/>
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=NewAmorend&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
 <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=NewAmorend&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
