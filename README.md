@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Hi+%F0%9F%91%8B+I'm+NewAmorend;AI+Full-Stack+Developer;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Hi+%F0%9F%91%8B+I'm+NewAmorend;AI+Full-Stack+Developer;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -92,19 +92,19 @@ and crafting elegant solutions with AI & Web technologies.</i>
 
 ### 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats-nine-peach-55.vercel.app/api?username=NewAmorend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+<img width="100%" src="https://github-readme-stats-nine-peach-55.vercel.app/api?username=NewAmorend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=NewAmorend&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=NewAmorend&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=NewAmorend&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NewAmorend&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-nine-peach-55.vercel.app/api/top-langs/?username=NewAmorend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="45%" />
+<img width="100%" src="https://github-readme-stats-nine-peach-55.vercel.app/api/top-langs/?username=NewAmorend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
 <br/><br/>
 
