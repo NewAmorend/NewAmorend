@@ -25,7 +25,7 @@ Currently studying at XMUM and exploring how LLM systems can move from demos int
 | --- | --- | --- |
 | [wq-agent-public](https://github.com/NewAmorend/wq-agent-public) | WorldQuant alpha generation and backtesting agent harness | Python, Agents |
 | [trace-agent](https://github.com/NewAmorend/trace-agent) | Agent trajectory evaluator for Codex and Claude-style sessions | Python, Evaluation |
-| [douyin-skills-pack](https://github.com/NewAmorend/douyin-skills-pack) | AI content production workflow for Douyin posts | HTML, AI Workflow |
+
 
 ## Toolbox
 
