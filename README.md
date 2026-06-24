@@ -42,10 +42,7 @@ Currently studying at XMUM and exploring how LLM systems can move from demos int
 
 ## GitHub Activity
 
-<p>
-  <img width="49%" src="https://github-readme-stats-nine-peach-55.vercel.app/api?username=NewAmorend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-nine-peach-55.vercel.app/api/top-langs/?username=NewAmorend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NewAmorend&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
