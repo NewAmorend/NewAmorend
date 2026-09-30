@@ -19,14 +19,6 @@ Currently studying at XMUM and exploring how LLM systems can move from demos int
 - Interest: AI evaluation, research agents, data-driven tools
 - Goal: Build useful AI products that are understandable, reliable, and easy to use
 
-## Featured Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [wq-agent-public](https://github.com/NewAmorend/wq-agent-public) | WorldQuant alpha generation and backtesting agent harness | Python, Agents |
-| [trace-agent](https://github.com/NewAmorend/trace-agent) | Agent trajectory evaluator for Codex and Claude-style sessions | Python, Evaluation |
-
-
 ## Toolbox
 
 <p>
@@ -40,11 +32,6 @@ Currently studying at XMUM and exploring how LLM systems can move from demos int
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## GitHub Activity
-
-
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NewAmorend&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
 ## Connect
 
